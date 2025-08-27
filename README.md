@@ -8,4 +8,4 @@ It has features like:
 4. Alarm.
 5. Timer.
 
-Download the project_clock.exe file to run the program.
+Only suitable for Windows because it uses some windows specific functionalities.
