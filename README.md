@@ -8,4 +8,4 @@ It has features like:
 4. Alarm.
 5. Timer.
 
-Only suitable for Windows because it uses some windows specific functionalities.
+Note: Only suitable for Windows because it uses some windows specific functionalities.
